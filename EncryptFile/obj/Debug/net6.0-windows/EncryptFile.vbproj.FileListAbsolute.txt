@@ -1,0 +1,17 @@
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.vbproj.AssemblyReference.cache
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.EncryptFileTool.resources
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.vbproj.GenerateResource.cache
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.AssemblyInfoInputs.cache
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.AssemblyInfo.vb
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\bin\Debug\net6.0-windows\EncryptFile.exe
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\bin\Debug\net6.0-windows\EncryptFile.deps.json
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\bin\Debug\net6.0-windows\EncryptFile.runtimeconfig.json
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\bin\Debug\net6.0-windows\EncryptFile.dll
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\bin\Debug\net6.0-windows\EncryptFile.pdb
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.dll
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\refint\EncryptFile.dll
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.pdb
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\EncryptFile.genruntimeconfig.cache
+D:\Visual Basic\source\repos\EncryptFile\EncryptFile\obj\Debug\net6.0-windows\ref\EncryptFile.dll
